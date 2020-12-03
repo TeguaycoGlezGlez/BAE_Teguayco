@@ -1,5 +1,6 @@
 # TAREA 1.1-INTRODUCCIÓN A LAS BASES DE DATOS
-  1.  ¿Qué es un archivo o fichero? Conjunto de información relacionada, tratada como un todo y organizada de forma estructurada. Es una secuencia de dígitos binarios que organiza información relacionada con un mismo aspecto.
+  1.  ¿Qué es un archivo o fichero?
+  Conjunto de información relacionada, tratada como un todo y organizada de forma estructurada. Es una secuencia de dígitos binarios que organiza información relacionada con un mismo aspecto.
   Están formados por registros lógicos que contienen datos relativos a un mismo elemento u objeto (por ejemplo, los datos de usuarios de una plataforma educativa).
   2.  Tipos de ficheros.
   Ficheros Permanenentes, que a su vez se dividen en: ficheros maestros, constantes e historicos.
